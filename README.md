@@ -5,6 +5,3 @@
 
 ## Activity Diagram
 ![musicGen_activitydiag drawio (2)](https://github.com/harsh5902/Music-Generator-with-lyrics/assets/74867899/5213cab2-71be-48c4-af71-705a2d945f3e)
-
-## Literature review
-[Literature Review Paper.pdf](https://github.com/harsh5902/Music-Generator-with-lyrics/files/14735174/Literature.Review.Paper.pdf)
